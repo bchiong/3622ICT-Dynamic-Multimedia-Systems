@@ -1,4 +1,3 @@
-
 # 3622ICT Final Project
 Mock travel website the utitlizes Facebook's OAuth and Graph API
 
