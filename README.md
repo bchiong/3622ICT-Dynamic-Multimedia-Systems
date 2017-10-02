@@ -1,6 +1,6 @@
-# 3622ICT Final Project
 
-## Mock travel website the utitlizes Facebook's OAuth and Graph API
+# 3622ICT Final Project
+Mock travel website the utitlizes Facebook's OAuth and Graph API
 
 ## Libraries and frameworks
 - Jquery
